@@ -3,13 +3,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evgenii-litvinov/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://theevgenii.github.io/)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=BankPythonProject.BankPythonProject)
 
-I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
+I am a senior undergraduate student pursuing an honors degree in computer science. I love programming, reading and traveling.
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+Decision-maker with excellent analytical, technical, and communication skills in computer programming and troubleshooting. Pursuing a bachelor’s degree in Computer Science and currently seeking a full-time position in Computer Science to complement theory learned at the university level.
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/YYW0hHizzIOrlhimPG/giphy.gif?cid=ecf05e47jxdk0vgw643gg1h3s9i4gsqbqho7he8v9w50t30a&rid=giphy.gif&ct=g raw=true" width="408" height="318" />
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
