@@ -8,16 +8,14 @@ I am a senior undergraduate student pursuing an honors degree in computer scienc
 
 Decision-maker with excellent analytical, technical, and communication skills in computer programming and troubleshooting. Pursuing a bachelor’s degree in Computer Science and currently seeking a full-time position in Computer Science to complement theory learned at the university level.
 
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/YYW0hHizzIOrlhimPG/giphy.gif?cid=ecf05e47jxdk0vgw643gg1h3s9i4gsqbqho7he8v9w50t30a&rid=giphy.gif&ct=g raw=true" width="408" height="318" />
 
-## I'm a Husband, Father, Developer, and Teacher!!
+**Personal Stuffs:**
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+- 👨🏻‍💻 I’m currently working on detecting objects in video streams;
+- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/EvgeniiLitvinov/);
+- 📝 I regulary write code in Python, HTML and CSS
+- 📫 How to reach me: elitvino@cougarnet.uh.edu;
+- 📝 [Resume](https://github.com/TheEvgenii/Coding-Interviews-/tree/master/Resume).
 
 ### Connect with me:
 
