@@ -15,7 +15,7 @@ Decision-maker with excellent analytical, technical, and communication skills in
 - 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/EvgeniiLitvinov/);
 - 📝 I regulary write code in Python, HTML and CSS
 - 📫 How to reach me: elitvino@cougarnet.uh.edu;
-- 📝 [Resume](https://github.com/TheEvgenii/Coding-Interviews-/tree/master/Resume).
+- 📝 [Resume](https://github.com/TheEvgenii/Coding-Interviews-/tree/master/Resume) & [WebSite](https://theevgenii.github.io/).
 
 
 ### Languages and Tools:
