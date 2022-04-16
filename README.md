@@ -11,7 +11,7 @@ Decision-maker with excellent analytical, technical, and communication skills in
 
 **Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on detecting objects in video streams;
+- 👨🏻‍💻 I’m currently working on detecting objects in [video streams](https://theevgenii.github.io/projectweb.html);
 - 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/EvgeniiLitvinov/);
 - 📝 I regulary write code in Python, HTML and CSS
 - 📫 How to reach me: elitvino@cougarnet.uh.edu;
