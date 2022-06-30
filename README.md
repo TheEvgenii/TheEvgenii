@@ -4,10 +4,9 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://theevgenii.github.io/)
 
 
-I am a senior undergraduate student pursuing an honors degree in computer science. I love programming, reading and traveling.
+My interest in technology brought me to the College of Natural Science and Mathematics at the University of Houston where I have recently graduated from with an undergraduate student pursuing an honors degree in Computer Science. 
 
-Decision-maker with excellent analytical, technical, and communication skills in computer programming and troubleshooting. Pursuing a bachelor’s degree in Computer Science and currently seeking a full-time position in Computer Science to complement theory learned at the university level.
-
+Decision-maker with excellent analytical, technical, and communication skills in computer programming and troubleshooting. 
 
 **Personal Stuffs:**
 
